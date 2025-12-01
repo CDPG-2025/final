@@ -1,0 +1,17 @@
+# Data
+data/
+*.csv
+*.pcap
+
+# Models and Experiments
+experiments/
+*.pth
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
